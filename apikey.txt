@@ -1,0 +1,1 @@
+weatherMapApiKey : 1716f3a81519707856067ebab2c3ed99
